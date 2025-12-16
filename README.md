@@ -25,36 +25,38 @@ Project Components
 Lists important business assets such as systems, data, and accounts along with owners and data sensitivity.
 Purpose: To understand what needs protection.
 Framework: ISO 27001 – Asset Management
+
 <img width="891" height="319" alt="image" src="https://github.com/user-attachments/assets/914ca02b-b685-46e1-9d26-be8b12b5dc65" />
 
 2️⃣ Risk Register
 Identifies security risks by analyzing threats, vulnerabilities, likelihood, and impact.
 Purpose: To prioritize risks based on business impact.
 Framework: NIST CSF – Identify (Risk Assessment)
+
 <img width="1217" height="269" alt="image" src="https://github.com/user-attachments/assets/038dd45f-f89c-49a1-8883-86197b507479" />
 
 3️⃣ Control Mapping
 Maps identified risks to security controls defined in ISO 27001.
 Purpose: To show how risks are reduced using security controls.
 Framework: ISO 27001 + NIST CSF (Protect)
+
 <img width="902" height="256" alt="image" src="https://github.com/user-attachments/assets/8ca61fbc-6d6a-4702-96f4-8e87568c150d" />
 
 4️⃣ Compliance Tracker
 Tracks whether each security control is compliant, partially compliant, or non-compliant.
 Purpose: To support audit readiness and compliance monitoring.
 Framework: ISO 27001
+
 <img width="756" height="246" alt="image" src="https://github.com/user-attachments/assets/f26444eb-7cc1-4871-aaa5-5d06e8947912" />
 
 5️⃣ Management Report
 Summarizes overall risk and compliance status in a simple format.
 Purpose: To help management make informed decisions.
+
 <img width="372" height="251" alt="image" src="https://github.com/user-attachments/assets/8cf63d9e-4346-4f80-90a1-bc700f22837f" />
 
 📊 Key Outcomes
 Clear visibility of business risks
 Better understanding of compliance status
 Practical exposure to GRC analyst responsibilities
-
 Audit-ready documentation using Excel
-
- GRC knowledge, not j
